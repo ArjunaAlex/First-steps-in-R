@@ -16,4 +16,4 @@ is mapped to the right column, giving it a value of 1 for this specific dice-thr
 
 Count the columns and balance the statistics... May the force be with you.
 
-BTW: The BarPlot will need processingPower... Remove comments when able!
+BTW: The BarPlot will need processingPower... Remove comments in my code, when able!
